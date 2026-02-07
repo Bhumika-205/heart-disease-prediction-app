@@ -16,6 +16,7 @@ A machine learning web application that predicts the likelihood of heart disease
 
 ## How to Run
 ```bash
+pip install -r requirements.txt
 streamlit run app.py
 ```
 ## Author
